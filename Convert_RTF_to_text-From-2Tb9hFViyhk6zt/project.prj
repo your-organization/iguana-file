@@ -1,0 +1,15 @@
+{
+    "LocalDependencies": [
+        "sample.rtf"
+    ],
+    "LuaDependencies": [
+        "rtf"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1464707694",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}
