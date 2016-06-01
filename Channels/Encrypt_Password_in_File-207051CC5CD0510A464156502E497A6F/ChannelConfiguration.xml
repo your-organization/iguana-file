@@ -1,0 +1,14 @@
+<channel
+   name="Encrypt Password in File"
+   guid="207051CC5CD0510A464156502E497A6F"
+   description="This example has a module that enables you to store an encrypted password in an external file.&#xD;&#xA;&#xD;&#xA;This can be useful if you want to make it easy to share source code for a channel in say a GIT repository but you do not want to have the password to appear within that repository.&#xD;&#xA;&#xD;&#xA;http://help.interfaceware.com/v6/encrypt-password-in-file"
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_mapper
+      guid="Encrypt_Password_in_File-To-MmF2jPVS7kUGC5"
+      commit_id="1b5b65d43d541f3fe90faf8f74fb14b281887fe8"
+      commit_comment="Import Translators: baseline">
+   </to_mapper>
+   <from_channel/>
+</channel>
