@@ -1,11 +1,11 @@
 {
     "LocalDependencies": [
-        "sample.rtf"
+        "local.xml"
     ],
-    "LuaDependencies": [
-        "rtf"
+    "LuaDependencies": [],
+    "OtherDependencies": [
+        "example.xml"
     ],
-    "OtherDependencies": [],
     "timestamp": "1464976136",
     "version_info": {
         "build": 0,

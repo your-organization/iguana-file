@@ -9,8 +9,8 @@
    </to_channel>
    <from_mapper
       guid="Load_and_Save_a_File-From-vPkhVsTUO6IpoH"
-      commit_id="1b5b65d43d541f3fe90faf8f74fb14b281887fe8"
-      commit_comment="Import Translators: baseline"
+      commit_id="ffaac306fecf140ba87a6cbbd978a4420f81c237"
+      commit_comment="comments"
       poll_time="10000">
    </from_mapper>
    <message_filter

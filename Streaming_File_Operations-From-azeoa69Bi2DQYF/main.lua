@@ -4,20 +4,23 @@
 
 -- Normally real production code would use helper functions.
 
-stream = require 'stream'
+-- http://help.interfaceware.com/v6/streaming-file-operations
 
-SomeRandomData=[[
+local stream = require 'stream'
+
+local SomeRandomData=[[
 This is some random data to save to a file
 with a few lines.
 ]]
 
 function main()
+   stream.toString(
    -- Iguana's 'working directory' can be 
    -- found using this function
    iguana.workingDir()
 
    -- Let's stream to file one incredibly long content 
-   -- http://help.interfaceware.com/code/details/stream-lua
+	-- https://github.com/interfaceware/iguana-file/blob/master/shared/stream.lua
    stream.toFile("exampletext.txt", stream.fromString(SomeRandomData))
 
    -- Now open it for reading with iterator, by lines

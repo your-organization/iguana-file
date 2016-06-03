@@ -9,8 +9,8 @@
    </to_channel>
    <from_mapper
       guid="Convert_RTF_to_text-From-2Tb9hFViyhk6zt"
-      commit_id="1b5b65d43d541f3fe90faf8f74fb14b281887fe8"
-      commit_comment="Import Translators: baseline"
+      commit_id="83bfca1ace6048f167202a5ccf7e89d1cc06e315"
+      commit_comment="delete test code"
       poll_time="10000">
    </from_mapper>
 </channel>

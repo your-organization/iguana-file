@@ -1,9 +1,7 @@
 {
-    "LocalDependencies": [
-        "sample.rtf"
-    ],
+    "LocalDependencies": [],
     "LuaDependencies": [
-        "rtf"
+        "cron.edit"
     ],
     "OtherDependencies": [],
     "timestamp": "1464976136",

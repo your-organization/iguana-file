@@ -9,8 +9,8 @@
    </to_channel>
    <from_mapper
       guid="From_FTP-From-gNtoE7W8QNchyC"
-      commit_id="1b5b65d43d541f3fe90faf8f74fb14b281887fe8"
-      commit_comment="Import Translators: baseline"
+      commit_id="ea59e007c62e08fa693d35c4da4b04f131bce1ff"
+      commit_comment="comments"
       poll_time="30000">
    </from_mapper>
    <message_filter

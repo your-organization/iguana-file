@@ -4,9 +4,9 @@
 
 -- The code uses AES encryption https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 
--- See http://help.interfaceware.com/v6/encrypt-password-in-file
+-- http://help.interfaceware.com/v6/encrypt-password-in-file
 
-config = require 'encrypt.password'
+local config = require 'encrypt.password'
 
 -- In production it makes sense to call the module outside of the main function to avoid
 -- the overhead of loading a file everytime a message is processed.
